@@ -1,0 +1,294 @@
+/* Footer CSS */
+footer {
+    background-color: #0d1a2f;
+    padding: 60px 0 30px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 40px;
+    border-bottom: 1px solid #1a2c42;
+}
+
+.footer-column {
+    width: 23%;
+}
+
+.footer-column h3 {
+    color: #ffffff;
+    font-size: 18px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.footer-column p {
+    color: #9c9c9c;
+    font-size: 15px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.footer-column ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-column ul li {
+    margin-bottom: 10px;
+}
+
+.footer-column ul li a {
+    color: #9c9c9c;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.footer-column ul li a:hover {
+    color: #ffd200;
+}
+
+.contact-phone {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.contact-phone .phone-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.contact-phone span {
+    color: #9c9c9c;
+    font-size: 15px;
+}
+
+.request-refund-btn {
+    background-color: #f7a000;
+    color: #0b0b0b;
+    border: none;
+    padding: 12px 25px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.request-refund-btn:hover {
+    background-color: #e09100;
+}
+
+.social-icons-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.social-icons {
+    display: flex;
+    gap: 15px;
+}
+
+.social-icons img {
+    width: 24px;
+    height: 24px;
+}
+
+.footer-logo {
+    width: 150px;
+    height: auto;
+}
+
+.payment-security-section {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    max-width: 1200px;
+    margin: 30px auto;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #1a2c42;
+}
+
+.payment-icons {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.payment-icons img {
+    height: 25px;
+    width: auto;
+}
+
+.security-badges {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.security-badges img {
+    height: 30px;
+    width: auto;
+}
+
+.footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 30px;
+    flex-wrap: wrap;
+}
+
+.footer-social-disclaimer-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.footer-disclaimer-copyright {
+    text-align: left;
+    max-width: 70%;
+}
+
+.footer-disclaimer-copyright p {
+    color: #9c9c9c;
+    font-size: 13px;
+    line-height: 1.5;
+}
+
+.footer-disclaimer-copyright .copyright {
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.fixcontbtn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+}
+
+.fixcontbtn img {
+    width: 60px;
+    height: 60px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 991px) {
+    .footer-container {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 30px;
+    }
+
+    .footer-column {
+        width: 100%;
+    }
+
+    .social-icons-wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-bottom {
+        flex-direction: column;
+        gap: 30px;
+        text-align: center;
+    }
+
+    .payment-security-section {
+        flex-direction: column;
+        align-items: center;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .footer-social-disclaimer-wrapper {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .footer-disclaimer-copyright {
+        max-width: 90%;
+        text-align: center;
+    }
+}
+
+@media (max-width: 767px) {
+    .footer-container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .footer-bottom {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media (max-width: 479px) {
+    footer {
+        padding: 40px 0 20px;
+    }
+
+    .footer-column h3 {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+
+    .footer-column p,
+    .footer-column ul li a,
+    .contact-phone span {
+        font-size: 14px;
+    }
+
+    .request-refund-btn {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+
+    .social-icons img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .footer-logo {
+        width: 120px;
+    }
+
+    .payment-icons img {
+        height: 20px;
+    }
+
+    .security-badges img {
+        height: 25px;
+    }
+
+    .footer-disclaimer-copyright p {
+        font-size: 12px;
+    }
+
+    .footer-disclaimer-copyright .copyright {
+        font-size: 13px;
+    }
+
+    .fixcontbtn img {
+        width: 50px;
+        height: 50px;
+    }
+} 

@@ -1,0 +1,234 @@
+@font-face {
+    font-family: 'FONTSPRING DEMO - Procerus Extra';
+    src: url('FONTSPRINGDEMO-ProcerusExtraLightItalic.eot');
+    src: url('FONTSPRINGDEMO-ProcerusExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ProcerusExtraLightItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ProcerusExtraLightItalic.woff') format('woff'),
+        url('FONTSPRINGDEMO-ProcerusExtraLightItalic.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ProcerusExtraLightItalic.svg#FONTSPRINGDEMO-ProcerusExtraLightItalic') format('svg');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Procerus';
+    src: url('FONTSPRINGDEMO-ProcerusLightRegular.eot');
+    src: url('FONTSPRINGDEMO-ProcerusLightRegular.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ProcerusLightRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ProcerusLightRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-ProcerusLightRegular.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ProcerusLightRegular.svg#FONTSPRINGDEMO-ProcerusLightRegular') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Procerus';
+    src: url('FONTSPRINGDEMO-ProcerusLightItalic.eot');
+    src: url('FONTSPRINGDEMO-ProcerusLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ProcerusLightItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ProcerusLightItalic.woff') format('woff'),
+        url('FONTSPRINGDEMO-ProcerusLightItalic.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ProcerusLightItalic.svg#FONTSPRINGDEMO-ProcerusLightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Procerus Extra';
+    src: url('FONTSPRINGDEMO-ProcerusExtraLightRegular.eot');
+    src: url('FONTSPRINGDEMO-ProcerusExtraLightRegular.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ProcerusExtraLightRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ProcerusExtraLightRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-ProcerusExtraLightRegular.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ProcerusExtraLightRegular.svg#FONTSPRINGDEMO-ProcerusExtraLightRegular') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Procerus';
+    src: url('FONTSPRINGDEMO-ProcerusItalic.eot');
+    src: url('FONTSPRINGDEMO-ProcerusItalic.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ProcerusItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ProcerusItalic.woff') format('woff'),
+        url('FONTSPRINGDEMO-ProcerusItalic.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ProcerusItalic.svg#FONTSPRINGDEMO-ProcerusItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Procerus';
+    src: url('FONTSPRINGDEMO-ProcerusRegular.eot');
+    src: url('FONTSPRINGDEMO-ProcerusRegular.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ProcerusRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ProcerusRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-ProcerusRegular.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ProcerusRegular.svg#FONTSPRINGDEMO-ProcerusRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Procerus Extra';
+    src: url('FONTSPRINGDEMO-ProcerusExtraBoldRegular.eot');
+    src: url('FONTSPRINGDEMO-ProcerusExtraBoldRegular.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ProcerusExtraBoldRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ProcerusExtraBoldRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-ProcerusExtraBoldRegular.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ProcerusExtraBoldRegular.svg#FONTSPRINGDEMO-ProcerusExtraBoldRegular') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Procerus Extra';
+    src: url('FONTSPRINGDEMO-ProcerusExtraBoldItalic.eot');
+    src: url('FONTSPRINGDEMO-ProcerusExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ProcerusExtraBoldItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ProcerusExtraBoldItalic.woff') format('woff'),
+        url('FONTSPRINGDEMO-ProcerusExtraBoldItalic.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ProcerusExtraBoldItalic.svg#FONTSPRINGDEMO-ProcerusExtraBoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Procerus Semi';
+    src: url('FONTSPRINGDEMO-ProcerusSemiBoldRegular.eot');
+    src: url('FONTSPRINGDEMO-ProcerusSemiBoldRegular.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ProcerusSemiBoldRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ProcerusSemiBoldRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-ProcerusSemiBoldRegular.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ProcerusSemiBoldRegular.svg#FONTSPRINGDEMO-ProcerusSemiBoldRegular') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Procerus';
+    src: url('FONTSPRINGDEMO-ProcerusMediumItalic.eot');
+    src: url('FONTSPRINGDEMO-ProcerusMediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ProcerusMediumItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ProcerusMediumItalic.woff') format('woff'),
+        url('FONTSPRINGDEMO-ProcerusMediumItalic.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ProcerusMediumItalic.svg#FONTSPRINGDEMO-ProcerusMediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Procerus';
+    src: url('FONTSPRINGDEMO-ProcerusThinRegular.eot');
+    src: url('FONTSPRINGDEMO-ProcerusThinRegular.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ProcerusThinRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ProcerusThinRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-ProcerusThinRegular.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ProcerusThinRegular.svg#FONTSPRINGDEMO-ProcerusThinRegular') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Procerus';
+    src: url('FONTSPRINGDEMO-ProcerusThinItalic.eot');
+    src: url('FONTSPRINGDEMO-ProcerusThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ProcerusThinItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ProcerusThinItalic.woff') format('woff'),
+        url('FONTSPRINGDEMO-ProcerusThinItalic.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ProcerusThinItalic.svg#FONTSPRINGDEMO-ProcerusThinItalic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Procerus';
+    src: url('FONTSPRINGDEMO-ProcerusMediumRegular.eot');
+    src: url('FONTSPRINGDEMO-ProcerusMediumRegular.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ProcerusMediumRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ProcerusMediumRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-ProcerusMediumRegular.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ProcerusMediumRegular.svg#FONTSPRINGDEMO-ProcerusMediumRegular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Procerus';
+    src: url('FONTSPRINGDEMO-ProcerusBlackItalic.eot');
+    src: url('FONTSPRINGDEMO-ProcerusBlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ProcerusBlackItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ProcerusBlackItalic.woff') format('woff'),
+        url('FONTSPRINGDEMO-ProcerusBlackItalic.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ProcerusBlackItalic.svg#FONTSPRINGDEMO-ProcerusBlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Procerus';
+    src: url('FONTSPRINGDEMO-ProcerusBlackRegular.eot');
+    src: url('FONTSPRINGDEMO-ProcerusBlackRegular.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ProcerusBlackRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ProcerusBlackRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-ProcerusBlackRegular.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ProcerusBlackRegular.svg#FONTSPRINGDEMO-ProcerusBlackRegular') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Procerus Semi';
+    src: url('FONTSPRINGDEMO-ProcerusSemiBoldItalic.eot');
+    src: url('FONTSPRINGDEMO-ProcerusSemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ProcerusSemiBoldItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ProcerusSemiBoldItalic.woff') format('woff'),
+        url('FONTSPRINGDEMO-ProcerusSemiBoldItalic.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ProcerusSemiBoldItalic.svg#FONTSPRINGDEMO-ProcerusSemiBoldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Procerus';
+    src: url('FONTSPRINGDEMO-ProcerusBoldItalic.eot');
+    src: url('FONTSPRINGDEMO-ProcerusBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ProcerusBoldItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ProcerusBoldItalic.woff') format('woff'),
+        url('FONTSPRINGDEMO-ProcerusBoldItalic.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ProcerusBoldItalic.svg#FONTSPRINGDEMO-ProcerusBoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Procerus';
+    src: url('FONTSPRINGDEMO-ProcerusBold.eot');
+    src: url('FONTSPRINGDEMO-ProcerusBold.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ProcerusBold.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ProcerusBold.woff') format('woff'),
+        url('FONTSPRINGDEMO-ProcerusBold.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ProcerusBold.svg#FONTSPRINGDEMO-ProcerusBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
